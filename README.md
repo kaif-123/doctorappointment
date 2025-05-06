@@ -1,2 +1,1 @@
-# doctorappointment
-doctor appointment 
+#cpu_scheduling_simulator
